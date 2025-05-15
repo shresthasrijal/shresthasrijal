@@ -64,4 +64,3 @@ I might not remember exactly how to write stored procedures or create cubes and 
 </p>
 
 ---
-[!](https://visitcount.itsvg.in)
