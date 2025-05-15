@@ -54,7 +54,6 @@ I might not remember exactly how to write stored procedures or create cubes and 
 <!-- Centered Contribution Graph -->
 <p align="center">
   <em>Not counting private repos</em><br/>
-  <img src="https://github-readme-streak-stats.vercel.app/api?user=shresthasrijal" alt="GitHub Streak Stats" />
 </p>
 
 <!-- Optional GitHub Stats -->
