@@ -12,7 +12,7 @@
 ### 📌 Welcome to my personal repo!
 I'm currently working full-time as a **Flutter App Developer**, and part-time freelancing as a **Frontend and Flutter Developer**.
 
-Before this, in 2022 I spent **2 years as a Data Analyst**, where I worked extensively with **MySQL, T-SQL**, visualization tools like **Power BI**, **Tableau**, **Python**, and even **Alibaba DataWorks**.  
+Before this, between 2022-2024 I spent **2 years as a Data Analyst**, where I worked extensively with **MySQL, T-SQL**, visualization tools like **Power BI**, **Tableau**, **Python**, and even **Alibaba DataWorks**.  
 I might not remember exactly how to write stored procedures or create cubes and tabular models anymore (hey, it’s been a minute!), but the data mindset still guides much of how I approach development.
 
 ---
